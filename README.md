@@ -22,11 +22,11 @@
 
 ---
 ## Introduce
-### Name : ###### 黃柏森 Bosen Huang
+### Name : 黃柏森 Bosen Huang
 
-### Major : ###### Soochow University Big Data
+### Major : Soochow University Big Data
 
-### Better programming language : ###### Python
+### Better programming language : Python
 
 
 ---
