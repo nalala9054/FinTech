@@ -24,7 +24,7 @@
 ## Introduce
 **Name** : 黃柏森 *Bosen Huang*
 
-**Major** : Soochow University BigData
+**Major** : Soochow University Big Data
 
 **Better programming language** : Python
 
