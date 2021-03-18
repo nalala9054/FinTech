@@ -28,7 +28,7 @@ Better programming language: Python
 ---
 ## HomeWork
 ### HW1
-* [HW1](HW1/HW1.md)
+* [HW1](HW/HW1.md)
 
 ### HW2
 
