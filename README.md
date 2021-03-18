@@ -30,7 +30,7 @@
 
 
 ---
-## HomeWork
+## Homework
 ### HW1
 * [HW1](HW/HW1.md)
 
