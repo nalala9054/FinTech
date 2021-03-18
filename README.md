@@ -1,6 +1,7 @@
 # Cloud Computing and FinTech
 ### Course Description
 課程內容包括財金專業知識、文字探勘與機器學習，以及使用程式語言（如Python）來實作由金融實務界提出的專題題目。
+
 學習 AWS 所提供的雲端運算服務，其中包含：
 * 架設虛擬機與伺服器
 * 網頁部署與版本控制
@@ -21,7 +22,9 @@
 ---
 ### Introduce
 Name: 黃柏森 Bosen Huang
+
 Major: Soochow University Big Data
+
 Better programming language: Python
 
 
