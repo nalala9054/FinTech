@@ -22,7 +22,7 @@
 
 ---
 ## Introduce
-**Name** : 黃柏森 Bosen Huang
+**Name** : 黃柏森 *Bosen Huang*
 
 **Major** : Soochow University BigData
 
