@@ -21,7 +21,7 @@
 
 
 ---
-## Introduce
+## Self Introduction
 **Name** : 黃柏森 *Bosen Huang*
 
 **Major** : Soochow University Big Data
@@ -43,3 +43,6 @@
 ### HW5
 
 ### HW6
+
+---
+## Project
