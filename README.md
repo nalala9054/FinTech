@@ -62,5 +62,5 @@
 1. 利用 Google News 作為蒐集每日新聞之源頭。
 2. 使用 Google Translation 進行中文與英文之對照翻譯。
 3. 以 NLTK 等英文模型進行文字解析。
-4. 使用 JIEBA 或中研院所開發的 CKIP 等中文模型進行文字解析。
+4. 使用 JIEBA 或 CKIP 等中文模型進行文字解析。
 5. 透過 PPTX 及 XlsxWriter 生成報告書。
