@@ -1,6 +1,6 @@
 # Cloud Computing and FinTech
 ## Course Description
-課程內容包括財金專業知識、文字探勘與機器學習，以及使用程式語言（如Python）來實作專題題目。
+課程內容包括財金專業知識、文字探勘與機器學習，以及使用程式語言（如 Python）來實作專題題目。
 
 學習 AWS 所提供的雲端運算服務，其中包含：
 * 架設虛擬機與伺服器
