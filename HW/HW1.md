@@ -78,7 +78,7 @@
 * [IaaS、PaaS、SaaS的差別](https://zhuanlan.zhihu.com/p/276054509 "IaaS、PaaS、SaaS的差別")
 * [2020年雲端運算數據](https://techjury.net/blog/cloud-computing-statistics/ "2020年雲端運算數據")
 * [雲端服務趨勢](https://www.finaria.it/pr/public-cloud-revenues-to-hit-338b-in-2021-a-25-jump-in-a-year/ "雲端服務趨勢")
-* [助教上課講義](FinTech/上課講義/20210308_Cloud_Computing_Fields.pptx)
+* [助教上課講義](../../上課講義/20210308_Cloud_Computing_Fields.pptx)
 
 
 
