@@ -35,7 +35,7 @@
 * [HW1](HW/HW1.md)
 
 ### HW2
-* [HW2](HW/HW2.md)
+* [HW2](https://youtu.be/xpPAd9-qTRY)
 
 ### HW3
 
