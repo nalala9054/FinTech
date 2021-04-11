@@ -38,6 +38,7 @@
 * [HW2](https://youtu.be/xpPAd9-qTRY)
 
 ### HW3
+* [HW3](https://www.youtube.com/watch?v=b9SzxFcLVFg)
 
 ### HW4
 
